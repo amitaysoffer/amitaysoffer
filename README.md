@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+[![HitCount](http://hits.dwyl.com/amitaysoffer/amitaysoffer.svg)](http://hits.dwyl.com/amitaysoffer/amitaysoffer)
+
+
 <!--
 **amitaysoffer/amitaysoffer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
